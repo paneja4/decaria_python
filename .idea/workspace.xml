@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb93a90-8e09-43b1-bfe8-ee50336e87f1" name="Changes" comment="Created Projects">
-      <change afterPath="$PROJECT_DIR$/chapter1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731146957974</updated>
-      <workItem from="1731146961731" duration="2042000" />
+      <workItem from="1731146961731" duration="2581000" />
     </task>
     <task id="LOCAL-00001" summary="Created Projects">
       <option name="closed" value="true" />
